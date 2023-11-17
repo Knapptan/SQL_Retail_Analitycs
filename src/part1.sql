@@ -172,29 +172,29 @@ $$;
 --  _____________________________Полный список для импорта датасетс_______________________________
 
 
--- CALL import_('personalinformation', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/Personal_Data_Mini.tsv', E'\t');
+-- CALL import_('personalinformation', '/Users/NAME/Desktop/project/datasets/Personal_Data_Mini.tsv', E'\t');
 -- SELECT * FROM personalinformation;
 
 
--- CALL import_('cards', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/Cards_Mini.tsv', E'\t');
+-- CALL import_('cards', '/Users/NAME/Desktop/project/datasets/Cards_Mini.tsv', E'\t');
 -- SELECT * FROM cards;
 
 -- SET datestyle = 'ISO, DMY';
--- CALL import_('transactions', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/Transactions_Mini.tsv', E'\t');
+-- CALL import_('transactions', '/Users/NAME/Desktop/project/datasets/Transactions_Mini.tsv', E'\t');
 -- SELECT * FROM transactions;
 
--- CALL import_('productgrid', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/SKU_Mini.tsv', E'\t');
+-- CALL import_('productgrid', '/Users/NAME/Desktop/project/datasets/SKU_Mini.tsv', E'\t');
 -- SELECT * FROM productgrid;
 
--- CALL import_('checks', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/Checks_Mini.tsv', E'\t');
+-- CALL import_('checks', '/Users/NAME/Desktop/project/datasets/Checks_Mini.tsv', E'\t');
 -- SELECT * FROM checks;
 
--- CALL import_('stores', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/Stores_Mini.tsv', E'\t');
+-- CALL import_('stores', '/Users/NAME/Desktop/project/datasets/Stores_Mini.tsv', E'\t');
 -- SELECT * FROM Stores;
 
--- CALL import_('sku_groups', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/Groups_SKU_Mini.tsv', E'\t');
+-- CALL import_('sku_groups', '/Users/NAME/Desktop/project/datasets/Groups_SKU_Mini.tsv', E'\t');
 -- SELECT * FROM sku_groups;
 
--- CALL import_('dateanalysisformation', '/Users/oceanusp/Desktop/project/SQL3_RetailAnalitycs_v1.0-1/datasets/Date_Of_Analysis_Formation.tsv', E'\t');
+-- CALL import_('dateanalysisformation', '/Users/NAME/Desktop/project/datasets/Date_Of_Analysis_Formation.tsv', E'\t');
 -- SELECT * FROM dateanalysisformation;
 
